@@ -303,12 +303,12 @@ i.fas.fa-blog {
   display: flex;
   justify-content: center;
   align-items: center;
-  height: 90px;
+  height: 40px;
   position: relative;
   color: var(--nav-anchor);
-  padding: 0 30px;
+  padding: 0 10px;
   overflow: hidden;
-  font-size: 18px;
+  font-size: 16px;
   transition: var(--main-transition);
   -webkit-transition: var(--main-transition);
   -moz-transition: var(--main-transition);
