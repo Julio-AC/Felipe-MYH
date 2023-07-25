@@ -1,7 +1,7 @@
 import { forEvents } from "./module.js";
 
 console.log(
-  "%cWelcom To Wesam%cBlog",
+  "%cBienvenido a MYH%c",
   "color:red; font-size:40px",
   "background-color:blue;color:white; font-size:40px"
 );
